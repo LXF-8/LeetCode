@@ -1,0 +1,17 @@
+
+o
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(­œ©ß8üÓÚ»ö/
+C
+java:S16590"&Declare "tPointer" on a separate line.(ÒÜøĞ8ıÓÚ»ö/
+@
+java:S16591"#Declare "tSkip" on a separate line.(™ÄÛê8ıÓÚ»ö/
+h
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(­œ©ß
+<
+java:S16590"&Declare "tPointer" on a separate line.(ÒÜøĞ
+9
+java:S16591"#Declare "tSkip" on a separate line.(™ÄÛê
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(â³´Øùÿÿÿÿ8€ÔÚ»ö/
+T	java:S106}"9Replace this use of System.out or System.err by a logger.(ÖÜŞ48ÔÚ»ö/
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(â³´Øùÿÿÿÿ
+M	java:S106}"9Replace this use of System.out or System.err by a logger.(ÖÜŞ4

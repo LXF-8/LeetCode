@@ -1,0 +1,11 @@
+
+t
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Îú³şşÿÿÿÿ8çõ„Ïô/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âœ–Á8ìõ„Ïô/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(—§¬¬8ñõ„Ïô/
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(òëßšşÿÿÿÿ8òõ„Ïô/
+Q
+java:S1066!"/Merge this if statement with the enclosing one.(ÍæÕóûÿÿÿÿ8òõ„Ïô/
+7
+java:S1220""Move this file to a named package.8óõ„Ïô/

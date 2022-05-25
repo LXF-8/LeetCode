@@ -1,0 +1,19 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†þð’ýÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†þð’ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿäªø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿäªø
+W
+java:S1854!"5Remove this useless assignment to local variable "a".(€üçýüÿÿÿÿ8ÞäˆÏô/
+P
+java:S1854!"5Remove this useless assignment to local variable "a".(€üçýüÿÿÿÿ
+A
+java:S1481!"&Remove this unused "a" local variable.(€üçýüÿÿÿÿ
+H
+java:S1481!"&Remove this unused "a" local variable.(€üçýüÿÿÿÿ8ÞäˆÏô/
+0
+java:S1220""Move this file to a named package.
+0
+java:S1220""Move this file to a named package.

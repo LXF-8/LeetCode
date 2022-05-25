@@ -1,0 +1,43 @@
+
+5
+java:S16599"Declare "m" on a separate line.(ª¨è¼
+5
+java:S16599"Declare "m" on a separate line.(ª¨è¼
+9
+java:S1659;"#Declare "right" on a separate line.(Ÿ– š
+9
+java:S1659;"#Declare "right" on a separate line.(Ÿ– š
+4
+java:S1659M"Declare "b" on a separate line.(¦ãÏ
+4
+java:S1659M"Declare "b" on a separate line.(¦ãÏ
+5
+java:S1659N"Declare "d" on a separate line.(ŸÅú
+5
+java:S1659N"Declare "d" on a separate line.(ŸÅú
+m
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ö¢ö¹ÿÿÿÿÿ
+m
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ö¢ö¹ÿÿÿÿÿ
+5
+java:S1659["Declare "m" on a separate line.(ª¨è¼
+5
+java:S1659["Declare "m" on a separate line.(ª¨è¼
+7
+java:S1659p"!Declare "end" on a separate line.(õùÙ
+7
+java:S1659p"!Declare "end" on a separate line.(õùÙ
+:
+java:S1659q"Declare "d" on a separate line.(³ºÀ™úÿÿÿÿ
+:
+java:S1659q"Declare "d" on a separate line.(³ºÀ™úÿÿÿÿ
+>
+java:S1659t"#Declare "right" on a separate line.(‘Ù´îøÿÿÿÿ
+>
+java:S1659t"#Declare "right" on a separate line.(‘Ù´îøÿÿÿÿ
+s	java:S135o"YReduce the total number of break and continue statements in this loop to use at most one.(¬ï¥«üÿÿÿÿ
+s	java:S135o"YReduce the total number of break and continue statements in this loop to use at most one.(¬ï¥«üÿÿÿÿ
+r	java:S127@"XRefactor the code in order to not assign to this loop counter from within the loop body.(èÃÇøÿÿÿÿ
+r	java:S127@"XRefactor the code in order to not assign to this loop counter from within the loop body.(èÃÇøÿÿÿÿ
+m	java:S127D"XRefactor the code in order to not assign to this loop counter from within the loop body.(³ã»ï
+m	java:S127D"XRefactor the code in order to not assign to this loop counter from within the loop body.(³ã»ï

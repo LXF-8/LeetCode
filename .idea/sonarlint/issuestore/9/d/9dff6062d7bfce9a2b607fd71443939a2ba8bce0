@@ -1,0 +1,25 @@
+
+K
+java:S1854+"5Remove this useless assignment to local variable "m".(…Äíº
+S
+java:S1854*"8Remove this useless assignment to local variable "text".(á™ÇÔýÿÿÿÿ
+D
+java:S1481*")Remove this unused "text" local variable.(á™ÇÔýÿÿÿÿ
+<
+java:S1481+"&Remove this unused "m" local variable.(…Äíº
+K
+java:S1854+"5Remove this useless assignment to local variable "m".(…Äíº
+S
+java:S1854*"8Remove this useless assignment to local variable "text".(á™ÇÔýÿÿÿÿ
+K
+java:S1481*")Remove this unused "text" local variable.(á™ÇÔýÿÿÿÿ8°Žþåú/
+<
+java:S1481+"&Remove this unused "m" local variable.(…Äíº
+K
+java:S1854+"5Remove this useless assignment to local variable "m".(…Äíº
+S
+java:S1854*"8Remove this useless assignment to local variable "text".(á™ÇÔýÿÿÿÿ
+D
+java:S1481*")Remove this unused "text" local variable.(á™ÇÔýÿÿÿÿ
+<
+java:S1481+"&Remove this unused "m" local variable.(…Äíº

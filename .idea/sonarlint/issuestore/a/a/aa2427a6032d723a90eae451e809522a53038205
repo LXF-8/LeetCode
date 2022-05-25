@@ -1,0 +1,10 @@
+
+?
+java:S2140!")Use "java.util.Random.nextInt()" instead.(–ä©
+?
+java:S2140#")Use "java.util.Random.nextInt()" instead.(ôüÃ¹
+N
+java:S1854)"8Remove this useless assignment to local variable "nums".(Ï×˜ä
+?
+java:S1481)")Remove this unused "nums" local variable.(Ï×˜ä
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ï¡Áûÿÿÿÿÿ

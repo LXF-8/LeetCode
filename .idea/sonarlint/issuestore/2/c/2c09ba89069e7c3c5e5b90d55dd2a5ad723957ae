@@ -1,0 +1,15 @@
+
+V
+java:S34004"9Remove this method and declare a constant for this value.(”·³›8×ÕÚ»ö/
+O
+java:S11723"-Remove this unused method parameter "fruits".(åæ¤ëıÿÿÿÿ8ØÕÚ»ö/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ÊÆÌıÿÿÿÿ8ÙÕÚ»ö/
+O
+java:S34004"9Remove this method and declare a constant for this value.(”·³›
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ÙÕÚ»ö/
+H
+java:S11723"-Remove this unused method parameter "fruits".(åæ¤ëıÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ÊÆÌıÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
